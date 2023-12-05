@@ -34,11 +34,11 @@ Here is an image of the type of motor we will use:
 
 # 09/13/2023 - Block Diagram finalized
 Today, we completed our block diagram. The diagram contains all of our components and how they will be connected to each other. Here it is:
-![Image](/Users/kash/Desktop/block.png)
+![Image](./block.png)
 
 # 09/13/2023 - Visual Aid
 Later in the day, after the block diagram, we met up again to finish our visual aid. The visual aid basically takes the block diagram and makes it into its visual component. Here it is:
-![Image](/Users/kash/Desktop/visualaid.png)
+![Image](./visualaid.png)
 
 # 09/14/2023 - Proposal work
 We met up today to work through our project proposal. Here are key details from this proposal:
@@ -84,9 +84,9 @@ Websites I referred to for help:
 # 09/25/2023 - Beginning the web design
 Today, I began working on the web application. I started off slow, but today all I completed was setting up the routes between different web pages. The web pages include help for insertion, retrieval, and checking storage
 Here is a snippet of code to illustrate how the web pages are connected:
-![Image](/Users/kash/Desktop/routes.png)
+![Image](./routes.png)
 
 # 09/27/2023 - Home page design
 Today, I completed the home page design for the website. This page contains the buttons for the website to navigate to the various other pages as defined in the image from the last entry. Here is an image showing how the home page is setup. As can be seen, there are 4 buttons. The buttons are self explanatory except for calibrate. Calibrate is essentially used to help the ESP32 figure out whether the user is manually going to rotate the bookshelf or not
-![Image](/Users/kash/Desktop/home.png)
+![Image](./home.png)
 
