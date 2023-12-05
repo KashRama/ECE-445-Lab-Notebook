@@ -8,7 +8,7 @@ Today, I submitted my initial web board post. I read through a ton of ideas and 
 
 # 08/31/2023 - project submission
 My group met for the first time today and brainstormed various ideas. We are going to go with the following idea at the moment. A bookshelf that can rotate on the x-y axis to show different shelves to the user. At the moment, we do not have all the details planned out but plan to explore this idea further. Here is an initial example of an image we were looking at to figure out how to structure our bookshelf:
-![Image]([http://url/a.png](https://m.media-amazon.com/images/I/61TPHUMPPIL._AC_UF894,1000_QL80_.jpg)https://m.media-amazon.com/images/I/61TPHUMPPIL._AC_UF894,1000_QL80_.jpg)
+![Image](https://m.media-amazon.com/images/I/61TPHUMPPIL._AC_UF894,1000_QL80_.jpg)
 
 # 09/01/2023 - Project brainstorming
 We have added to our original idea with the following components:
