@@ -55,7 +55,7 @@ We are now going to work on the CAD design
 
 # 09/16/2023 - CAD Design
 Here is the CAD design that we developed based on the conversation with the machine shop:
-![Image](CAD.png)
+![Image](ECE-445-Lab-Notebook/CAD.png)
 As it can be seen, the CAD design is extremely simplified. It follows exactly what the machine shop recommended that we do.
 
 # 09/18/2023 - Team meeting with Nikhil
