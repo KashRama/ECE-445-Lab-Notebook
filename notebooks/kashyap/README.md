@@ -87,6 +87,6 @@ Here is a snippet of code to illustrate how the web pages are connected:
 ![Image](/Users/kash/Desktop/routes.png)
 
 # 09/27/2023 - Home page design
-Today, I completed the home page design for the website. This page contains the buttons for the website to navigate to the various other pages as defined in the image from the last entry. Here is an image showing how the home page is setup. As can be seen, there are 4 buttons. The buttons are self explanatory except for calibrate. Calibrate is essentially used to help the ESP32 figure out whether the user is manually going to rotate the bookshelf or not.
+Today, I completed the home page design for the website. This page contains the buttons for the website to navigate to the various other pages as defined in the image from the last entry. Here is an image showing how the home page is setup. As can be seen, there are 4 buttons. The buttons are self explanatory except for calibrate. Calibrate is essentially used to help the ESP32 figure out whether the user is manually going to rotate the bookshelf or not
 ![Image](/Users/kash/Desktop/home.png)
 
