@@ -91,4 +91,8 @@ Today we submitted our PCB order on PCBWay after designing our circuit and PCB.
 
 Today we submitted our final PCB order on our own. This is because our initial design had many small components that were extremely difficult to solder onto our board. We are hopeful that this is the PCB that will end up working as we spent a lot of time into trying to make the previous PCB to work.
 
+<img width="928" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/88442103-2c54-4f8e-a6e0-445f129aa907">
+
+<img width="887" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/782c473b-5914-451d-b79e-6ad196159bbb">
+
 
