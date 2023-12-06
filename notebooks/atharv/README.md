@@ -79,6 +79,28 @@ After our conversation with the machine shop, we created a CAD design to model w
 
 <img width="286" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/74af76fb-968a-4e30-b4d1-1818404fd308">
 
+# 10/06 - Parts Order Day 1
+
+Today we met to identify what parts we need to order from digikey for our PCB. Unfortunately, we had a lot of questions on where to find things so we had to send an email to Nikhil regarding the questions we had. 
+
+<img width="1424" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/c4c35994-1ebf-439c-88c5-ddf9b796cf99">
+
+# 10/08 - Parts Order Day 2
+
+Today we received an email from Nikhil answering the questions we had about how and where to order the parts.
+
+<img width="1413" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/4b1535c3-1bdc-459a-a440-4a94bf27a04f">
+
+Once we received the email from Nikhil, we identified which parts we needed and where we were able to get each from. We created a spreadsheet with the parts we need, and where we would be able to find those specific parts. 
+
+<img width="1303" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/229807d5-01c6-4bab-8f64-dcf2c394d9cc">
+
+# 10/12 - Submitted CAD Design to Machine Shop
+
+Today we went into the machine sho with the CAD design we had created for what we wanted our bookshelf to look like. Going in with a CAD design was very helpful for them and us as both parties were on the same page regarding what the bookshelf should look like and what the dimensions would be as well. Following the meeting with the machine shop, I sent them an email detailing what we had discussed.
+
+<img width="600" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/8a46280a-2cde-448d-848c-939864a5d5ca">
+
 # 10/17 - PCB Order Submitted
 
 Today we submitted our PCB order on PCBWay after designing our circuit and PCB.
@@ -86,6 +108,10 @@ Today we submitted our PCB order on PCBWay after designing our circuit and PCB.
 <img width="1082" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/03697d9a-7e5e-444f-8942-9e3710706120">
 
 <img width="873" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/79d36fae-05f9-41a2-9c07-f2a69b310bd1">
+
+# 10/18 - Parts Order
+
+Today we submitted our first parts order off Digikey so we can hopefully get them when the PCB we ordered yesterday arrives. Once we receive both, we plan to begin soldering our PCB.
 
 # 11/18 - Final PCB Order Submitted
 
