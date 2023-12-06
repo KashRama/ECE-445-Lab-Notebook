@@ -79,3 +79,16 @@ After our conversation with the machine shop, we created a CAD design to model w
 
 <img width="286" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/74af76fb-968a-4e30-b4d1-1818404fd308">
 
+# 10/17 - PCB Order Submitted
+
+Today we submitted our PCB order on PCBWay after designing our circuit and PCB.
+
+<img width="1082" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/03697d9a-7e5e-444f-8942-9e3710706120">
+
+<img width="873" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/79d36fae-05f9-41a2-9c07-f2a69b310bd1">
+
+# 11/18 - Final PCB Order Submitted
+
+Today we submitted our final PCB order on our own. This is because our initial design had many small components that were extremely difficult to solder onto our board. We are hopeful that this is the PCB that will end up working as we spent a lot of time into trying to make the previous PCB to work.
+
+
