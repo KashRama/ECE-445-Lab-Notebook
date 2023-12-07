@@ -186,3 +186,6 @@ Today marks an extremely important accomplishment. The bookshelf now completely 
 
 # 11/29/2023 - PCB does not work
 After a ton of work put into soldering the PCB, it simply would not work for our demo. The ESP32 kept breaking or something else on the circuit would not work. As a result, our demo only used the breadboard. Luckily, during our demo, everything worked perfectly, just without a PCB. We are being given a second chance to complete the PCB by the final presentation date and get the points back, so we will be sure to work on that in the coming days.
+
+# 12/04/2023 - Project Complete
+After a long semester, the project is complete. We didn't get it to work on the PCB, but it is fully functional on the breadboard. We had a glimpse of hope when the PCB was fully functional, but the power regulator blew up and the PCB didn't work anymore. Overall, it was a successful semester
