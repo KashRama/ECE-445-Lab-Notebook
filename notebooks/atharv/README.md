@@ -121,9 +121,43 @@ Today we got an email from the machine shop saying that our bookshelf is ready t
 
 The top compartment had 4 different shelves that can be used to store electrical components. The bottom box has ample space for us to place our circuitry and motor in order to maintain professional packaging. One change we had them made after we saw the bookshelf in real life was adding a stand in the base for the PCB. This was done so that once we had finished our PCB, we'd have a secure spot to place it so that it wouldn't move around and risk breaking.
 
-# 11/03
+# 11/03 - Soldering Session 1
 
-Today was the first day we went into the lab to start soldering our PCB. We initially started by trying to get our power subsystem soldered on. 
+Today was the first day we went into the lab to start soldering our PCB. We initially started by trying to get our power subsystem soldered on. This was the circuit on the PCB we were trying to get working during this session:
+
+<img width="453" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/b8426bef-ea90-450d-8c86-d694dcef9182">
+
+During this session, we were able to get all the necessary parts soldered on, however, we realized that our circuit was getting shorted somewhere, possibly due to poor soldering done on our end due to extremely small parts. We ended the session there and decided to come in a different day to try and get it working.
+
+# 11/07 - Soldering Session 2
+
+Today we tried fixing the power subsystem issue we were facing in the last session, where there was a short happening somewhere. We tried resoldering everything onto a different PCB, but were still getting the issue of the short. After working for a solid amount of time, we realized that we may be getting this issue because we were trying to hand solder extremely small pieces. We decided to come back the next day and try using the oven.
+
+# 11/08 - Soldering Session 3
+
+Today we tried using the oven to solder all of our small components and the ESP32 onto the new breadboard. These are the components we tried using the paste and oven in order to solder:
+
+<img width="85" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/f1ee4a7b-31ce-4e65-b047-200cd634328e">
+
+<img width="249" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/2efde574-c488-4d2e-900a-99de32e4c42c">
+
+<img width="103" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/79aab9d2-bad2-4da6-a385-a12a26ce7c11">
+
+Using the syringe, we tried to carefully put on the solder paste across these extremely small pins as we unfortunately didn't order a stencil. This was very tedious and we ended up not getting it to work again, due to shorts happening again most likely as a result of overlapping solder. Here is an image of me trying to use the syringe to get the solder paste on. 
+
+<img width="424" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/9ea71baf-dd05-4bed-85db-ab258b152ecf">
+
+# 11/12 - Soldering Session 4
+
+Today we had another soldering session where we tried to hand solder the ESP32 on to a completely different board. We did this under a microscope this time in order to make sure we weren't overlapping solder between pins and there were no shorts happening anywhere. This resulted in our ESP32 being successfully programmed when giving it a direct 3.3V supply. During our mock demo, we planned to show the ESP32 programming with the direct 3.3V supply, however, we still new that we had to get our power subsystem working as well.
+
+# 11/14 - Soldering Session 5
+
+Today we went into the lab to try soldering our power subsystem. We faced the same issue again with a short happening somewhere, due to the voltage regulator we were using being extremely small.
+
+# 11/16 - PCB Redesign
+
+Today we decided that we would completely redesign our PCB and order it over break on our own. This was because we thought it would be easier to solder a PCB if the components we were soldering on were bigger. We decided that this would be the best move going forward instead of trying to solder on microscopic parts by hand, as we weren't getting any success.
 
 # 11/18 - Final PCB Order Submitted
 
@@ -133,4 +167,15 @@ Today we submitted our final PCB order on our own. This is because our initial d
 
 <img width="887" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/782c473b-5914-451d-b79e-6ad196159bbb">
 
+# 11/28 - Soldering Session 6
+
+Today we received the new PCB we ordered over break. We decided to go into the lab all day and try to get the entire PCB soldered on and working. We got our ESP32 programming, along with our new power subsystem with the bigger regulator, however once we put in our H-Bridge circuit, our ESP32 burnt out for some reason and stopped programming. We spent the entire day trying to fix the issue before our demo on 11/29. 
+
+# 11/29 - Final Demo Day
+
+We went into the lab really early in the day to try getting our PCB working again. However, we kept running into issues with it not getting programmed despite multiple soldering attmepts. At this point, we decided to use a breadboard for our final demo, as we'd be able to show a functional project. We were able to get our breadboard working which allowed us to meet all our high level requirements that we had set at the beginning of the project. Our demo went successfully, and we were happy to hear the Professor Shao would allow us to try getting our PCB to work for the final presentation to receive those points.
+
+# 12/04 - Project Complete
+
+After a long semester, we finally completed our project. Unfortunately, we weren't able to get it working completely on the PCB, but were able to get it fully functioning with the breadboard. We almost had our PCB working, however as we were about to take our video, the power regulator blew up and the PCB didn't work. We learned that in the future, we would ensure all calculations are done correctly so that none of our components would blow up. Despite all the challenges, however, we were able to get a fully functional project complete and have a successful semester.
 
