@@ -113,6 +113,18 @@ Today we submitted our PCB order on PCBWay after designing our circuit and PCB.
 
 Today we submitted our first parts order off Digikey so we can hopefully get them when the PCB we ordered yesterday arrives. Once we receive both, we plan to begin soldering our PCB.
 
+# 11/01 - Machine Shop Completed Bookshelf
+
+Today we got an email from the machine shop saying that our bookshelf is ready to be picked up. This was exciting for us because it was the first time we were seeing our design come to life. Here is an image of what it looks like:
+
+<img width="196" alt="image" src="https://github.com/KashRama/ECE-445-Lab-Notebook/assets/73131848/987fe382-606d-483e-9313-2fd24c882bc8">
+
+The top compartment had 4 different shelves that can be used to store electrical components. The bottom box has ample space for us to place our circuitry and motor in order to maintain professional packaging. One change we had them made after we saw the bookshelf in real life was adding a stand in the base for the PCB. This was done so that once we had finished our PCB, we'd have a secure spot to place it so that it wouldn't move around and risk breaking.
+
+# 11/03
+
+Today was the first day we went into the lab to start soldering our PCB. We initially started by trying to get our power subsystem soldered on. 
+
 # 11/18 - Final PCB Order Submitted
 
 Today we submitted our final PCB order on our own. This is because our initial design had many small components that were extremely difficult to solder onto our board. We are hopeful that this is the PCB that will end up working as we spent a lot of time into trying to make the previous PCB to work.
